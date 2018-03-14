@@ -6,10 +6,10 @@ namespace _02._Rectangle_area
     {
         static void Main(string[] args)
         {
-            double a = double.Parse(Console.ReadLine());
+            double lenght = double.Parse(Console.ReadLine());
             double b = double.Parse(Console.ReadLine());
 
-            double area = a * b;
+            double area = a * lenght;
             Console.WriteLine($"{area:f2}");
         }
     }
