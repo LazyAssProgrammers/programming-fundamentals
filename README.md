@@ -2,11 +2,11 @@
 Programming fundamentals team repository
 
 ### Team:
-1. ### Drago – kratun
-2. ### Kosta – kostanikolov
-3. ### Cveti – cypetrova
-4. ### Sisi – Smircheva
-5. ### Aleksander – Missing. Drago will replacing him. 
+**1. Drago – kratun
+2. Kosta – kostanikolov
+3. Cveti – cypetrova
+4. Sisi – Smircheva
+5. Aleksander – Missing. Drago will replacing him.** 
 
 ## []()Exercises: Git and GitHub - Teamwork
 
@@ -74,49 +74,50 @@ repository and:
 Add
 a solution for a problem from the exercise:
 
-Member 1 /Drago/ adds solution for Problem
-1 /already added/;
+- **Drago** adds solution for **Problem 1**;
 
-Kosta adds solution for Problem 2;
+- **Kosta** adds solution for **Problem 2**;
 
-Cveti adds solution for Problem 3;
+- **Cveti** adds solution for **Problem 3**;
 
-Sisi adds solution for Problem 4;
+- **Sisi** adds solution for **Problem 4**;
 
-Drago adds solution for Problem 5;
+- **Drago** adds solution for **Problem 5**;
+
 
 ##### b.               
 Document
 the code of the NEXT Problem:
 
-- Drago documents the code of Solution of
-Problem 2;
+- **Drago** documents the code of Solution of
+**Problem 2**;
 
-- Kosta documents the code of Solution of
-Problem 3;
+- **Kosta** documents the code of Solution of
+**Problem 3**;
 
 - Cveti documents the code of Solution of
-Problem 4;
+**Problem 4**;
 
-- Sisi documents the code of Solution of
-Problem 5;
+- **Sisi** documents the code of Solution of
+**Problem 5**;
 
-- Drago documents the code of Solution of
-Problem 1;
+- **Drago** documents the code of Solution of
+**Problem 1**;
 
 ##### c.                
 Add
 description in README.md for the NEXT problem:
 
-- Drago adds description of Problem 3;
+- **Drago** adds description of **Problem 3**;
 
-- Kosta adds description of Problem 4;
+- **Kosta** adds description of **Problem 4**;
 
-- Cveti adds description of Problem 5;
+- Cveti adds description of **Problem 5**;
 
-- Sisi adds description of Problem 1;
+- **Sisi** adds description of **Problem 1**;
 
-- Drago adds description of Problem 2;
+- **Drago** adds description of **Problem 2**;
+
 
 You can use [text-to-markdown-converter](http://markitdown.medusis.com/)
 
@@ -127,39 +128,30 @@ You can learn more about Markdown language [here](https://en.wikipedia.org/wiki/
 Change
 a variable name in the NEXT Problem: 
 
--                    
-Drago changes variable name in Problem 4;
+- **Drago** changes variable name in **Problem 4**;
 
--                    
-Kosta changes variable name in Problem 5;
+- **Kosta** changes variable name in **Problem 5**;
 
--                    
-Cveti changes variable name in Problem 1;
+- **Cveti** changes variable name in **Problem 1**;
 
--                    
-Cveti changes variable name in Problem 2;
+- **Sisi** changes variable name in **Problem 2**;
 
--                    
-Drago changes variable name in Problem 3;
+- **Drago** changes variable name in **Problem 3**;
+
 
 ##### e.               
 Check
 the solution of NEXT Problem.
 
--                    
-Drago changes variable name in Problem 5;
+- **Drago** changes variable name in **Problem 5**;
 
--                    
-Kosta changes variable name in Problem 1;
+- **Kosta** changes variable name in **Problem 1**;
 
--                    
-Cveti changes variable name in Problem 2;
+- **Cveti** changes variable name in **Problem 2**;
 
--                    
-Cveti changes variable name in Problem 3;
+- **Sisi** changes variable name in **Problem 3**;
 
--                    
-Drago changes variable name in Problem 4;
+- **Drago** changes variable name in **Problem 4**;
 
 
 ###### If
