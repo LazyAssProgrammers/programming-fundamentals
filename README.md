@@ -1,9 +1,5 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
 
+<<<<<<< HEAD
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=ProgId content=Word.Document>
@@ -481,3 +477,5 @@ Drago will replacing him.**</span><span lang=EN-US style='mso-fareast-font-famil
 </body>
 
 </html>
+=======
+>>>>>>> b01a373642fe63e93b4dc0ad113036d59de2c235
