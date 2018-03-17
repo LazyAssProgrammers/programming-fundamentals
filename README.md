@@ -4,6 +4,8 @@ xmlns:w="urn:schemas-microsoft-com:office:word"
 xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 <<<<<<< HEAD
+=======
+>>>>>>> 24077de608718afd356322268f2f65b827b333c3
 
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
@@ -604,7 +606,7 @@ div.WordSection1
 <div class=WordSection1>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#
-programming-fundamentals </span></p>
+programming-fundamentals </span><o:p></o:p></p>
 
 <u9:p></u9:p>
 
@@ -615,7 +617,7 @@ fundamentals team repository** </span><span lang=EN-US style='mso-fareast-font-f
 <p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>###
-Team: </span></p>
+Team: </span><o:p></o:p></p>
 
 <u9:p></u9:p>
 
@@ -640,14 +642,16 @@ kostanikolov** </span><o:p></o:p></p>
 mso-ansi-language:EN-US'><u9:p>&nbsp;</u9:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>**3.
-Cveti </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><span style='mso-spacerun:yes'> </span>-</span><span
+Cveti </span><span style='<<<<<<< HEAD
+mso-ansi-language:EN-US'><span
+style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'><span
+style='mso-spacerun:yes'> </span><span lang=EN-US>-</span></span></span><span
 style='mso-fareast-font-family:"Times New Roman"'> cypetrova**</span><o:p></o:p></p>
 
 <u9:p></u9:p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><u9:p>&nbsp;</u9:p></span></p>
+mso-ansi-language:EN-US'>&nbsp;</u9:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>**4.
 Sisi </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
@@ -662,7 +666,7 @@ mso-ansi-language:EN-US'><u9:p>&nbsp;</u9:p></span></p>
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>**5.
 Aleksander </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'>- </span><span style='mso-fareast-font-family:"Times New Roman"'>Missing.
-Drago will replacing him.**</span></p>
+Drago will replacing him.**</span><o:p></o:p></p>
 
 <u9:p></u9:p></div>
 
@@ -670,4 +674,7 @@ Drago will replacing him.**</span></p>
 
 </html>
 =======
+<<<<<<< HEAD
 >>>>>>> b01a373642fe63e93b4dc0ad113036d59de2c235
+=======
+>>>>>>> 24077de608718afd356322268f2f65b827b333c3
