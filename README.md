@@ -2,11 +2,11 @@
 Programming fundamentals team repository
 
 ### Team:
-**1. Drago – kratun
-2. Kosta – kostanikolov
-3. Cveti – cypetrova
-4. Sisi – Smircheva
-5. Aleksander – Missing. Drago will replacing him.** 
+**1. Drago – kratun**
+**2. Kosta – kostanikolov**
+**3. Cveti – cypetrova**
+**4. Sisi – Smircheva**
+**5. Aleksander – Missing. Drago will replacing him.** 
 
 ## []()Exercises: Git and GitHub - Teamwork
 
