@@ -12,10 +12,10 @@ namespace Miles_to_Kilometers
             var miles = double.Parse(Console.ReadLine());
 			
 			// Calculating the kilometers.
-            var kilometers = miles * 1.60934;
+            var kms = miles * 1.60934;
 			
 			// ... and printing them.
-            Console.WriteLine("{0:F2}", kilometers);
+            Console.WriteLine("{0:F2}", kms);
         }
     }
 }

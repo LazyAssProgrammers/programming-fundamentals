@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace HexadecimalConvert
 {
@@ -17,10 +14,10 @@ namespace HexadecimalConvert
             var newHexNumber = hexNumber.Substring(2);
 
             //Convert the string to integer base ten
-            var baseTenNumber = Convert.ToInt32(newHexNumber, 16);
+            var tenBaseNumber = Convert.ToInt32(newHexNumber, 16);
 
             //Print the base ten number
-            Console.WriteLine(baseTenNumber);
+            Console.WriteLine(tenBaseNumber);
         }
     }
 }
