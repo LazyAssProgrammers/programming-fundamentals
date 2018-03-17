@@ -6,8 +6,13 @@ namespace Miles_to_Kilometers
     {
         static void Main(string[] args)
         {
+			// Reading the miles from the console.
             var miles = double.Parse(Console.ReadLine());
+			
+			// Calculating the kilometers.
             var kilometers = miles * 1.60934;
+			
+			// ... and printing them.
             Console.WriteLine("{0:F2}", kilometers);
         }
     }
