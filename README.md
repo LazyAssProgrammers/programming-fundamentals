@@ -95,7 +95,7 @@ the code of the NEXT Problem:
 - **Kosta** documents the code of Solution of
 **Problem 3**;
 
-- Cveti documents the code of Solution of
+- **Cveti** documents the code of Solution of
 **Problem 4**;
 
 - **Sisi** documents the code of Solution of
@@ -112,7 +112,7 @@ description in README.md for the NEXT problem:
 
 - **Kosta** adds description of **Problem 4**;
 
-- Cveti adds description of **Problem 5**;
+- **Cveti** adds description of **Problem 5**;
 
 - **Sisi** adds description of **Problem 1**;
 
