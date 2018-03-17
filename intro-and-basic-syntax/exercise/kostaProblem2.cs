@@ -1,4 +1,5 @@
-﻿using System;
+//CONFIRMED from cypetrova
+using System;
 
 namespace _02._Rectangle_area
 {
