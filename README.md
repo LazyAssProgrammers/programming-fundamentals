@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=ProgId content=Word.Document>
@@ -449,7 +448,7 @@ mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>**3.
 Cveti </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><span style='mso-spacerun:yes'> </span>-</span><span
+mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â </span>-</span><span
 style='mso-fareast-font-family:"Times New Roman"'> cypetrova**</span><span
 lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
 EN-US'><o:p></o:p></span></p>
@@ -478,4 +477,3 @@ Drago will replacing him.**</span><span lang=EN-US style='mso-fareast-font-famil
 
 </html>
 =======
->>>>>>> b01a373642fe63e93b4dc0ad113036d59de2c235
