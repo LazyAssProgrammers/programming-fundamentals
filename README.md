@@ -2,7 +2,7 @@
 **Programming fundamentals team repository**
 
 **VERY IMPORTANT!!!**
-**Check VI. Submit your Homework**
+**WHEN FINISHED ALL OF YOUR TASKS CHECK -  VI. Submit your Homework**
 
 ### Team:
 **1. Drago – kratun**
@@ -166,7 +166,7 @@ this:
 ### VI. Submit your Homework
 
 **EACH Member should submit URL to the repository
-in homework section in softuni.bg. Create a .txt file:
+in homework section in softuni.bg. Create a .txt file:**
 
 **On the first line paste the URL to the
 repository and on the second add your GitHub username.**
