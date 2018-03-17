@@ -2,19 +2,23 @@
 Programming fundamentals team repository
 
 ### Team:
-**1. Drago – kratun**
-**2. Kosta – kostanikolov**
-**3. Cveti – cypetrova**
-**4. Sisi – Smircheva**
-**5. Aleksander – Missing. Drago will replacing him.** 
+**1. Drago â€“ kratun**
+
+**2. Kosta â€“ kostanikolov**
+
+**3. Cveti â€“ cypetrova**
+
+**4. Sisi â€“ Smircheva**
+
+**5. Aleksander â€“ Missing. Drago will replacing him.** 
 
 ## []()Exercises: Git and GitHub - Teamwork
 
 Problems for
-exercises and homework for the [“Software Technologies”
+exercises and homework for the [â€œSoftware Technologiesâ€
 course @ SoftUni](https://softuni.bg/courses/software-technologies).
 
-### I.  Introduction
+### I. Â Introduction
 
 We are going to practice using git in teams.
 Use Git Bash or Tortoise Git.
@@ -37,31 +41,31 @@ you can call your Organization whatever you want, choose your Team Name wisely.
 This organization will represent your teamwork skills and your responsibility
 and serious attitude.
 
-#### 1.              
+#### 1.Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 Team Leader responsibilities:
 
-##### a.                
+##### a.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 Create the Organization and
 Invite all the members to join. 
 
 You can do this through your profile in
-GitHub. Just click the “+” sign next to your profile picture in the navigation
+GitHub. Just click the â€œ+â€ sign next to your profile picture in the navigation
 bar.
 
- 
+Â 
 
-##### b.               
+##### b.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 Create the Repository and add
 folder structure
 
 Clone the
-created Repository to your local machine and create folder called “intro-and-basic-syntax”.
-In this folder create a folder called “exercise”. In exercise folder put the
-file of your solution for Problem ¹ 1 from the exercise [https://judge.softuni.bg/Contests/577](https://judge.softuni.bg/Contests/577)/you can submit code in **JAVA, C#, JavaScript and even Python or PHP**/;
+created Repository to your local machine and create folder called â€œintro-and-basic-syntaxâ€.
+In this folder create a folder called â€œexerciseâ€. In exercise folder put the
+file of your solution for Problem Â¹ 1 from the exercise [https://judge.softuni.bg/Contests/577](https://judge.softuni.bg/Contests/577)/you can submit code in **JAVA, C#, JavaScript and even Python or PHP**/;
 
 **Add** the file, **commit** the changes to your local repository and **push** them to the remote repository.
 
-#### 2.              
+#### 2.Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 Members
 responsibilities: 
 
@@ -70,7 +74,7 @@ responsibilities:
 Each Member**, including the Team Leader should clone the
 repository and:
 
-##### a.                
+##### a.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 Add
 a solution for a problem from the exercise:
 
@@ -85,7 +89,7 @@ a solution for a problem from the exercise:
 - **Drago** adds solution for **Problem 5**;
 
 
-##### b.               
+##### b.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 Document
 the code of the NEXT Problem:
 
@@ -104,7 +108,7 @@ the code of the NEXT Problem:
 - **Drago** documents the code of Solution of
 **Problem 1**;
 
-##### c.                
+##### c.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 Add
 description in README.md for the NEXT problem:
 
@@ -122,9 +126,9 @@ description in README.md for the NEXT problem:
 You can use [text-to-markdown-converter](http://markitdown.medusis.com/)
 
 You can learn more about Markdown language [here](https://en.wikipedia.org/wiki/Markdown).
- 
+Â 
 
-##### d.               
+##### d.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 Change
 a variable name in the NEXT Problem: 
 
@@ -139,7 +143,7 @@ a variable name in the NEXT Problem:
 - **Drago** changes variable name in **Problem 3**;
 
 
-##### e.               
+##### e.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 Check
 the solution of NEXT Problem.
 
@@ -168,17 +172,17 @@ working in a team. We should help each other. You should provide full info. It
 is recommended to give your opinion and proposal to resolve the problem.
 
 ###### If there are no problems,
-add a line on top of the code “//CONFIRMED from” and your userName;
+add a line on top of the code â€œ//CONFIRMED fromâ€ and your userName;
 
 
 ### IV. Create team.txt
 
 Add a txt file containing all usernames of your
 team members and their softuni usernames each on a new line in the following
-format: “{github username} –
-{softuni username}”
+format: â€œ{github username} â€“
+{softuni username}â€
 
-** **
+**Â **
 
 **Watch
 out because if you write the usernames wrong, your homework could not be
@@ -189,7 +193,7 @@ checked and you will receive no bonus points.**
 Your repository should look something like
 this:
 
- 
+Â 
 ### VI. Submit your Homework
 
 EACH Member should submit URL to the repository
@@ -200,4 +204,4 @@ repository and on the second add your GitHub username.
 
 After that zip the file and upload it in the
 homework submission area in softuni.bg.
- 
+Â 
