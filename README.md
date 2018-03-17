@@ -14,16 +14,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>kratun</o:Author>
   <o:LastAuthor>kratun</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>8</o:TotalTime>
+  <o:Revision>4</o:Revision>
+  <o:TotalTime>17</o:TotalTime>
   <o:Created>2018-03-17T15:25:00Z</o:Created>
-  <o:LastSaved>2018-03-17T15:34:00Z</o:LastSaved>
+  <o:LastSaved>2018-03-17T15:58:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>178</o:Words>
-  <o:Characters>1019</o:Characters>
-  <o:Lines>8</o:Lines>
-  <o:Paragraphs>2</o:Paragraphs>
-  <o:CharactersWithSpaces>1195</o:CharactersWithSpaces>
+  <o:Words>36</o:Words>
+  <o:Characters>211</o:Characters>
+  <o:Lines>1</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>246</o:CharactersWithSpaces>
   <o:Version>14.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -52,6 +52,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -332,6 +333,13 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-generic-font-family:roman;
 	mso-font-pitch:variable;
 	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;
+	mso-font-charset:204;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536869121 64767 1 0 415 0;}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{mso-style-unhide:no;
@@ -344,6 +352,30 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-family:"Times New Roman","serif";
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
+pre
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"HTML Preformatted Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:Consolas;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";}
+span.HTMLPreformattedChar
+	{mso-style-name:"HTML Preformatted Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"HTML Preformatted";
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Consolas;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -402,213 +434,46 @@ Team: </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>**1.
-Drago â€“ kratun** </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+Drago </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'>-</span><span style='mso-fareast-font-family:"Times New Roman"'>
+kratun** </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>**2.
-Kosta â€“ kostanikolov** </span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><o:p></o:p></span></p>
+Kosta </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'>-</span><span style='mso-fareast-font-family:"Times New Roman"'>
+kostanikolov** </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>**3.
-Cveti â€“ cypetrova**</span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><o:p></o:p></span></p>
+Cveti </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'><span style='mso-spacerun:yes'> </span>-</span><span
+style='mso-fareast-font-family:"Times New Roman"'> cypetrova**</span><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+EN-US'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>**4.
-Sisi â€“ Smircheva** </span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><o:p></o:p></span></p>
+Sisi </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'>- </span><span style='mso-fareast-font-family:"Times New Roman"'>Smircheva**
+</span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>**5.
-Aleksander â€“ Missing. Drago will replacing him.**</span><span lang=EN-US
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>###
-Problem
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Rectangle
-Area </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Autour:
-**kratun** </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Write
-a program, which calculates a **rectangle’s area**, based on its **width** and
-**height**. The **width** and **height** come as floating point numbers on the
-console, **formatted to the 2nd character after the decimal point**. </span><span
-lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
-EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>####
-Examples </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>|
-Input | Output |</span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>|-----------------|--------------|</span><span
-lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
-EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>| 2
-7 | 14.00 | </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>| 7
-8 | 56.00 | </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>|
-12.33 5 | 61.65 | </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span>### Problem
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Miles
-to Kilometers </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Author:
-**kratun** </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Write
-a program, which **converts****miles** to **kilometers**. **Format** the output
-to the **2<sup>nd</sup></span><span style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'> </span><span style='mso-fareast-font-family:"Times New Roman"'>decimal
-place**.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Note:
-**</span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'>1</span><span style='mso-fareast-font-family:"Times New Roman"'>mile
-== 1.60934 kilometers**</span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'>.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span></span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>####
-Examples <span style='mso-spacerun:yes'> </span></span><span lang=EN-US
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>  </span></span><span
-style='mso-fareast-font-family:"Times New Roman"'>Input</span><span lang=EN-US
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'><span
-style='mso-spacerun:yes'>     </span></span><span style='mso-fareast-font-family:
-"Times New Roman"'><span style='mso-spacerun:yes'> </span>|</span><span
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'> </span><span
-style='mso-fareast-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span>Output </span><span lang=EN-US
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'><span
-style='mso-spacerun:yes'>  </span></span><span style='mso-fareast-font-family:
-"Times New Roman"'>| | </span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><span
-style='mso-spacerun:yes'>    </span></span><span style='mso-fareast-font-family:
-"Times New Roman"'>Input </span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><span
-style='mso-spacerun:yes'>   </span></span><span style='mso-fareast-font-family:
-"Times New Roman"'>|</span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><span style='mso-spacerun:yes'> 
-</span></span><span style='mso-fareast-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span>Output </span><span lang=EN-US
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'><span
-style='mso-spacerun:yes'>  </span></span><span style='mso-fareast-font-family:
-"Times New Roman"'>| |</span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>  
-</span></span><span style='mso-fareast-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span>Input </span><span lang=EN-US
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'><span
-style='mso-spacerun:yes'>   </span></span><span style='mso-fareast-font-family:
-"Times New Roman"'>|</span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><span style='mso-spacerun:yes'> 
-</span></span><span style='mso-fareast-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span>Output </span><span lang=EN-US
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'><span
-style='mso-spacerun:yes'>  </span></span><span style='mso-fareast-font-family:
-"Times New Roman"'>| </span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>|-------------|--------------|
-|-------------|--------------| |-------------|--------------| </span><span
-lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
-EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>| </span><span
-lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
-EN-US'><span style='mso-spacerun:yes'>    </span></span><span style='mso-fareast-font-family:
-"Times New Roman"'>60</span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><span style='mso-tab-count:1'>  </span><span
-style='mso-spacerun:yes'>     </span></span><span style='mso-fareast-font-family:
-"Times New Roman"'>|</span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>  
-</span></span><span style='mso-fareast-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span>96.56</span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>  
-</span></span><span style='mso-fareast-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span>| |</span><span style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'> <span
-style='mso-spacerun:yes'> </span></span><span style='mso-fareast-font-family:
-"Times New Roman"'><span style='mso-spacerun:yes'> </span></span><span
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'><span
-style='mso-spacerun:yes'> </span><span style='mso-spacerun:yes'> </span><span
-lang=EN-US><span style='mso-spacerun:yes'>  </span></span></span><span
-style='mso-fareast-font-family:"Times New Roman"'>1</span><span
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'> <span
-style='mso-spacerun:yes'> </span><span style='mso-spacerun:yes'> </span><span
-style='mso-spacerun:yes'> </span><span style='mso-spacerun:yes'> </span></span><span
-style='mso-fareast-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span>| </span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><span style='mso-tab-count:1'>     </span></span><span
-style='mso-fareast-font-family:"Times New Roman"'>1.61</span><span lang=EN-US
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'><span
-style='mso-tab-count:1'>     </span></span><span style='mso-fareast-font-family:
-"Times New Roman"'> | |</span><span style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'> </span><span style='mso-fareast-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span>52.1113</span><span style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'> </span><span style='mso-fareast-font-family:
-"Times New Roman"'>|</span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>  
-</span></span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span></span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><span
-style='mso-spacerun:yes'> </span></span><span style='mso-fareast-font-family:
-"Times New Roman"'>83.86</span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>  
-</span></span><span style='mso-fareast-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span>| </span><span lang=EN-US style='mso-fareast-font-family:
+Aleksander </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'>- </span><span style='mso-fareast-font-family:"Times New Roman"'>Missing.
+Drago will replacing him.**</span><span lang=EN-US style='mso-fareast-font-family:
 "Times New Roman";mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
 </div>
