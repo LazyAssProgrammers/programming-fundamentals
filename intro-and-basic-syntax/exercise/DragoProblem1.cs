@@ -8,7 +8,7 @@ namespace DebitCardNumber
         static void Main()
         {
             // We received four numbers from Console 
-            int firstFourNumbers=int.Parse(Console.ReadLine());
+            int firstFourNumbers = int.Parse(Console.ReadLine());
             int secondFourDigits = int.Parse(Console.ReadLine());
             int thirdFourDigits = int.Parse(Console.ReadLine());
             int forthFourDigits = int.Parse(Console.ReadLine());
