@@ -1,3 +1,4 @@
+// CONFIRMED by kratun
 using System;
 
 namespace CharacterStats
